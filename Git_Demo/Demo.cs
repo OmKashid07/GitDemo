@@ -6,5 +6,6 @@ namespace Git_Demo
 {
     internal class Demo
     {
+        string demo;
     }
 }
