@@ -1,0 +1,11 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Git_Demo
+{
+    internal class Demo
+    {
+        string demo;
+    }
+}
